@@ -3,7 +3,7 @@ class addition
 {
 	public static void main(String args[])
 	{
-		int x,y,z;
+		int x,y,z,a;
 		x=10;
 		y=20;
 		z=x+y;
